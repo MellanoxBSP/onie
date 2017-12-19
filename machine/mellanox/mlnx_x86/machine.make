@@ -21,7 +21,7 @@ VENDOR_ID = 33049
 
 # Enable the i2ctools and the onie-syseeprom command for this platform
 I2CTOOLS_ENABLE = yes
-I2CTOOLS_SYSEEPROM = yes
+I2CTOOLS_SYSEEPROM = no
 
 UEFI_ENABLE = yes
 SKIP_ETHMGMT_MACS = yes
